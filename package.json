@@ -1,0 +1,23 @@
+{
+  "name": "dobermann",
+  "version": "0.1.0",
+  "description": "common services for my serverless dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha src/tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdeltour/dobermann.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdeltour/dobermann/issues"
+  },
+  "homepage": "https://github.com/pdeltour/dobermann#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
